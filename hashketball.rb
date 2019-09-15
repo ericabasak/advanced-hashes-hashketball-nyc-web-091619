@@ -267,7 +267,7 @@ end
 def long_name_steals_a_ton?
    data = game_hash
   max_len = 0
-  player_longest_name = nil
+  longest_player_name = nil
   max_steals = 0
   player_max_steals = nil
   
